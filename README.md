@@ -34,6 +34,25 @@ A bilingual (EN/PT‑BR) PWA diet tracker with game mechanics.
 - 7‑day meal plan gamified into challenges  
 
 ---
+BeautyBook - Beauty Professionals Booking Platform
+A comprehensive PHP-based web application for beauty professionals and clients to connect, book appointments, and manage their beauty business.
+
+Features
+For Clients
+Browse and search beauty professionals
+View professional profiles and portfolios
+Book appointments with real-time availability
+Manage appointment history
+Direct messaging with professionals
+Leave reviews and ratings
+For Professionals
+Professional dashboard with analytics
+Manage services and pricing
+Set availability and working hours
+Upload portfolio/gallery items
+Appointment management
+Client communication
+Route optimization for mobile services
 
 ## 🛠️ Tech Stack & Tools
 
@@ -41,6 +60,7 @@ A bilingual (EN/PT‑BR) PWA diet tracker with game mechanics.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP] ()
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
